@@ -7,7 +7,7 @@ dataset has been taken from B'Tselem Website:https://statistics.btselem.org/en/a
 
 United Nation Website : https://www.ochaopt.org/data/casualties
 
-#give index strating from 1 in power query to get each record unique and aslo do some datacleaning and conditional fromating 
+#give index strating from 1 in power query to count each record unique and also do some datacleaning and conditional formating 
 
 insights we get 
 male gender suffer more fatalities than female
