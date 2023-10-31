@@ -9,6 +9,9 @@ United Nation Website : https://www.ochaopt.org/data/casualties
 
 insights we get 
 male gender suffer more fatalities than female
+
 adulte face more fatalities by teenager,childern,unknown,infants
+
 palestine people suffer more in war and injury is most done bu gunfire
+
 waepons used like missiles,bomb,knife,shell,belt and many more
